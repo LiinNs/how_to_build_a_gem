@@ -1,4 +1,4 @@
-# HowToBuildAGem
+# HowToBuildAGem [![Build Status](https://travis-ci.com/LiinNs/how_to_build_a_gem.svg?branch=master)](https://travis-ci.com/LiinNs/how_to_build_a_gem)
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/how_to_build_a_gem`. To experiment with that code, run `bin/console` for an interactive prompt.
 
@@ -32,7 +32,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/how_to_build_a_gem.
+Bug reports and pull requests are welcome on GitHub at https://github.com/liinns/how_to_build_a_gem.
 
 ## License
 
