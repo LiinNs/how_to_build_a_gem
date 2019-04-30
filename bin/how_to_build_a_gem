@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'how_to_build_a_gem/cli'
+HowToBuildAGem::CLI.start

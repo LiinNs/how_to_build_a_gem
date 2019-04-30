@@ -4,6 +4,6 @@ RSpec.describe HowToBuildAGem do
   end
 
   it "does something useful" do
-    expect(false).to eq(true)
+    expect(HowToBuildAGem.dada).to eq('Gross!')
   end
 end
